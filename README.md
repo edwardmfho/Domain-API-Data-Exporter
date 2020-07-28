@@ -104,7 +104,7 @@ pip install jupyterlab
  
 1. Clone the repo
 ```sh
-git clone https://github.com/edwardmfho/fakenews_detector.git
+git clone https://github.com/edwardmfho/Domain-API-Data-Exporter.git
 ```
 2. Start an Jupyter Notebook Instance.
 ```sh
@@ -116,7 +116,7 @@ jupyter notebook
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is a really simple tool to detect fake news solely using the news title.
+This is a really simple tool to extract data from domain.com.au
 
 
 
@@ -152,14 +152,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@edwardmfho](https://twitter.com/edwardmfho) - email
 
-Project Link: [https://github.com/edwardmfho/fakenews_detector](https://github.com/edwardmfho/fakenews_detector)
+Project Link: [https://github.com/edwardmfho/Domain-API-Data-Exporter](https://github.com/edwardmfho/Domain-API-Data-Exporter)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* [Data-Flair Tutorial](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
 
 
 
