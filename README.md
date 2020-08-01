@@ -33,14 +33,14 @@
   <p align="center">
     This tool uses the Domain.com.au API to extract property data. 
     <br />
-    <a href="https://github.com/edwardmfho/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/edwardmfho/Domain-API-Data-Exporter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/edwardmfho/repo">View Demo</a>
+    <a href="https://github.com/edwardmfho/Domain-API-Data-Exporter">View Demo</a>
     ·
-    <a href="https://github.com/edwardmfho/repo/issues">Report Bug</a>
+    <a href="https://github.com/edwardmfho/Domain-API-Data-Exporter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/edwardmfho/repo/issues">Request Feature</a>
+    <a href="https://github.com/edwardmfho/Domain-API-Data-Exporter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -123,7 +123,7 @@ This is a really simple tool to extract data from domain.com.au
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/edwardmfho/Domain-API-Data-Exporter/issues) for a list of proposed features (and known issues).
 
 
 
